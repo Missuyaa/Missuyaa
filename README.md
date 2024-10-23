@@ -1,11 +1,7 @@
 ## Hi there 👋 I'm I Made Adi Sujaya
 
-# 💫 About Me:
+# 💫 About Me 💫
 I am currently a student in Information Systems and I am interested in mobile interface applications and websites. I started my studies at the beginning of 2024. I can do the work by collaborating according to the given and approved responsibilities. <br><br>
-
-# 💫 About Me:
-Saat Ini saya adalah seorang mahasiswa di bidang Information System dan saya tertarik dengan aplikasi interface mobile dan juga website. lalu saya memulai pembelajaran pada awal 2024. Saya dapat melakukan pekerjaan dengan berkolaborasi sesuai dengan tanggung jawab yang di berikan dan di setujui. <br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Missuyya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Made Sujaya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@misudya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Borbobb) 
