@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm I Made Adi Sujaya
 
 # 💫 About Me:
-Saat Ini saya adalah seorang mahasiswa di bidang Information System dan saya tertarik dengan aplikasi interface mobile dan juga website. lalu saya memulai pembelajaran pada awal 2024. Saya dapat melakukan pekerjaan dengan berkolaborasi sesuai dengan tanggung jawab yang di berikan dan di setujui. <br><br>
+I am currently a student in Information Systems and I am interested in mobile interface applications and websites. I started my studies at the beginning of 2024. I can do the work by collaborating according to the given and approved responsibilities. <br><br>
 
 
 ## 🌐 Socials:
